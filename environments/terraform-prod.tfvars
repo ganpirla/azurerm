@@ -1,5 +1,5 @@
 location="centralus"
-rg-prefix="rg-multi-env"
+rg-prefix="rg-multienv"
 rg-name="rg-multienv-prod"
 storage-account-name="pirlaprod"
 index_document="index.html"

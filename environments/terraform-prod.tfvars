@@ -1,4 +1,4 @@
-location="eastus"
+location="centralus"
 rg-prefix="rg-multienv-demo"
 rg-name="rg-multienv-demo-prod"
 storage-account-name="staticwebsite100prod"
